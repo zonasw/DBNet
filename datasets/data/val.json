@@ -1,0 +1,4515 @@
+{
+  "data_root": "datasets/data/test",
+  "data_list": [
+    {
+      "img_name": "X51005230616.jpg",
+      "annotations": [
+        {
+          "polygon": [
+            [
+              244.0,
+              105.0
+            ],
+            [
+              327.0,
+              105.0
+            ],
+            [
+              327.0,
+              167.0
+            ],
+            [
+              244.0,
+              167.0
+            ]
+          ],
+          "text": "190",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              37.0,
+              188.0
+            ],
+            [
+              477.0,
+              188.0
+            ],
+            [
+              477.0,
+              225.0
+            ],
+            [
+              37.0,
+              225.0
+            ]
+          ],
+          "text": "GERBANG ALAF RESTAURANTS SDN BHD",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              192.0,
+              227.0
+            ],
+            [
+              310.0,
+              227.0
+            ],
+            [
+              310.0,
+              260.0
+            ],
+            [
+              192.0,
+              260.0
+            ]
+          ],
+          "text": "(65351-M)",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              136.0,
+              256.0
+            ],
+            [
+              366.0,
+              256.0
+            ],
+            [
+              366.0,
+              289.0
+            ],
+            [
+              136.0,
+              289.0
+            ]
+          ],
+          "text": "FORMERLY KNOWN AS",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              27.0,
+              287.0
+            ],
+            [
+              480.0,
+              287.0
+            ],
+            [
+              480.0,
+              324.0
+            ],
+            [
+              27.0,
+              324.0
+            ]
+          ],
+          "text": "GOLDEN ARCHES RESTAURANTS SDN BHD",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              103.0,
+              323.0
+            ],
+            [
+              419.0,
+              323.0
+            ],
+            [
+              419.0,
+              362.0
+            ],
+            [
+              103.0,
+              362.0
+            ]
+          ],
+          "text": "LICENSEE OF MCDONALD'S",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              4.0,
+              356.0
+            ],
+            [
+              529.0,
+              356.0
+            ],
+            [
+              529.0,
+              391.0
+            ],
+            [
+              4.0,
+              391.0
+            ]
+          ],
+          "text": " DAMANSARA UPTOWN3",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              2.0,
+              389.0
+            ],
+            [
+              533.0,
+              389.0
+            ],
+            [
+              533.0,
+              428.0
+            ],
+            [
+              2.0,
+              428.0
+            ]
+          ],
+          "text": "47400 PETALING JAYA",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              205.0,
+              422.0
+            ],
+            [
+              313.0,
+              422.0
+            ],
+            [
+              313.0,
+              453.0
+            ],
+            [
+              205.0,
+              453.0
+            ]
+          ],
+          "text": "SELANGOR",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              101.0,
+              451.0
+            ],
+            [
+              434.0,
+              451.0
+            ],
+            [
+              434.0,
+              486.0
+            ],
+            [
+              101.0,
+              486.0
+            ]
+          ],
+          "text": "(GST ID NO: 000504664064)",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              23.0,
+              484.0
+            ],
+            [
+              505.0,
+              484.0
+            ],
+            [
+              505.0,
+              519.0
+            ],
+            [
+              23.0,
+              519.0
+            ]
+          ],
+          "text": "MCDONALD'S PETRONAS TAMAN MELATI DT",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              112.0,
+              517.0
+            ],
+            [
+              418.0,
+              517.0
+            ],
+            [
+              418.0,
+              550.0
+            ],
+            [
+              112.0,
+              550.0
+            ]
+          ],
+          "text": "TEL NO. : 03-4147-3107",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              188.0,
+              552.0
+            ],
+            [
+              345.0,
+              552.0
+            ],
+            [
+              345.0,
+              583.0
+            ],
+            [
+              188.0,
+              583.0
+            ]
+          ],
+          "text": "TAX INVOICE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              194.0,
+              616.0
+            ],
+            [
+              347.0,
+              616.0
+            ],
+            [
+              347.0,
+              653.0
+            ],
+            [
+              194.0,
+              653.0
+            ]
+          ],
+          "text": "MFY SIDE 1",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              4.0,
+              680.0
+            ],
+            [
+              277.0,
+              680.0
+            ],
+            [
+              277.0,
+              721.0
+            ],
+            [
+              4.0,
+              721.0
+            ]
+          ],
+          "text": "INV# 141900016842",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              4.0,
+              715.0
+            ],
+            [
+              502.0,
+              715.0
+            ],
+            [
+              502.0,
+              752.0
+            ],
+            [
+              4.0,
+              752.0
+            ]
+          ],
+          "text": "ORD #90 -REG #19- 18/01/2018 17:09:21",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              4.0,
+              751.0
+            ],
+            [
+              118.0,
+              751.0
+            ],
+            [
+              118.0,
+              782.0
+            ],
+            [
+              4.0,
+              782.0
+            ]
+          ],
+          "text": "QTY ITEM",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              29.0,
+              782.0
+            ],
+            [
+              240.0,
+              782.0
+            ],
+            [
+              240.0,
+              813.0
+            ],
+            [
+              29.0,
+              813.0
+            ]
+          ],
+          "text": "2 M SPICYDELUXE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              50.0,
+              819.0
+            ],
+            [
+              166.0,
+              819.0
+            ],
+            [
+              166.0,
+              850.0
+            ],
+            [
+              50.0,
+              850.0
+            ]
+          ],
+          "text": "2 M COKE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              52.0,
+              848.0
+            ],
+            [
+              191.0,
+              848.0
+            ],
+            [
+              191.0,
+              887.0
+            ],
+            [
+              52.0,
+              887.0
+            ]
+          ],
+          "text": "2 M FRIES",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              31.0,
+              881.0
+            ],
+            [
+              238.0,
+              881.0
+            ],
+            [
+              238.0,
+              914.0
+            ],
+            [
+              31.0,
+              914.0
+            ]
+          ],
+          "text": "1 M GRILCHICBGR",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              54.0,
+              914.0
+            ],
+            [
+              168.0,
+              914.0
+            ],
+            [
+              168.0,
+              945.0
+            ],
+            [
+              54.0,
+              945.0
+            ]
+          ],
+          "text": "1 M COKE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              56.0,
+              949.0
+            ],
+            [
+              186.0,
+              949.0
+            ],
+            [
+              186.0,
+              976.0
+            ],
+            [
+              56.0,
+              976.0
+            ]
+          ],
+          "text": "1 M FRIES",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              27.0,
+              980.0
+            ],
+            [
+              205.0,
+              980.0
+            ],
+            [
+              205.0,
+              1015.0
+            ],
+            [
+              27.0,
+              1015.0
+            ]
+          ],
+          "text": "1 SMALL CONE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              5.0,
+              1048.0
+            ],
+            [
+              321.0,
+              1048.0
+            ],
+            [
+              321.0,
+              1080.0
+            ],
+            [
+              5.0,
+              1080.0
+            ]
+          ],
+          "text": "TAKEOUT TOTAL (INCL GST)",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              5.0,
+              1082.0
+            ],
+            [
+              183.0,
+              1082.0
+            ],
+            [
+              183.0,
+              1111.0
+            ],
+            [
+              5.0,
+              1111.0
+            ]
+          ],
+          "text": "TOTAL ROUNDED",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              2.0,
+              1110.0
+            ],
+            [
+              190.0,
+              1110.0
+            ],
+            [
+              190.0,
+              1143.0
+            ],
+            [
+              2.0,
+              1143.0
+            ]
+          ],
+          "text": "CASH TENDERED",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              5.0,
+              1148.0
+            ],
+            [
+              90.0,
+              1148.0
+            ],
+            [
+              90.0,
+              1179.0
+            ],
+            [
+              5.0,
+              1179.0
+            ]
+          ],
+          "text": "CHANGE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              8.0,
+              1212.0
+            ],
+            [
+              285.0,
+              1212.0
+            ],
+            [
+              285.0,
+              1249.0
+            ],
+            [
+              8.0,
+              1249.0
+            ]
+          ],
+          "text": "TOTAL INCLUDES 6% GST",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              455.0,
+              751.0
+            ],
+            [
+              527.0,
+              751.0
+            ],
+            [
+              527.0,
+              784.0
+            ],
+            [
+              455.0,
+              784.0
+            ]
+          ],
+          "text": "TOTAL",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              455.0,
+              788.0
+            ],
+            [
+              525.0,
+              788.0
+            ],
+            [
+              525.0,
+              817.0
+            ],
+            [
+              455.0,
+              817.0
+            ]
+          ],
+          "text": "25.40",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              459.0,
+              881.0
+            ],
+            [
+              529.0,
+              881.0
+            ],
+            [
+              529.0,
+              916.0
+            ],
+            [
+              459.0,
+              916.0
+            ]
+          ],
+          "text": "12.50",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              467.0,
+              982.0
+            ],
+            [
+              533.0,
+              982.0
+            ],
+            [
+              533.0,
+              1015.0
+            ],
+            [
+              467.0,
+              1015.0
+            ]
+          ],
+          "text": "1.00",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              451.0,
+              1048.0
+            ],
+            [
+              525.0,
+              1048.0
+            ],
+            [
+              525.0,
+              1079.0
+            ],
+            [
+              451.0,
+              1079.0
+            ]
+          ],
+          "text": "38.90",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              451.0,
+              1084.0
+            ],
+            [
+              528.0,
+              1084.0
+            ],
+            [
+              528.0,
+              1113.0
+            ],
+            [
+              451.0,
+              1113.0
+            ]
+          ],
+          "text": "38.90",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              447.0,
+              1112.0
+            ],
+            [
+              528.0,
+              1112.0
+            ],
+            [
+              528.0,
+              1143.0
+            ],
+            [
+              447.0,
+              1143.0
+            ]
+          ],
+          "text": "50.00",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              455.0,
+              1150.0
+            ],
+            [
+              527.0,
+              1150.0
+            ],
+            [
+              527.0,
+              1177.0
+            ],
+            [
+              455.0,
+              1177.0
+            ]
+          ],
+          "text": "11.10",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              465.0,
+              1214.0
+            ],
+            [
+              527.0,
+              1214.0
+            ],
+            [
+              527.0,
+              1245.0
+            ],
+            [
+              465.0,
+              1245.0
+            ]
+          ],
+          "text": "2.20",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              108.0,
+              1307.0
+            ],
+            [
+              476.0,
+              1307.0
+            ],
+            [
+              476.0,
+              1342.0
+            ],
+            [
+              108.0,
+              1342.0
+            ]
+          ],
+          "text": "LOVE TO HEAR YOUR FEEDBACK!",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              66.0,
+              1375.0
+            ],
+            [
+              451.0,
+              1375.0
+            ],
+            [
+              451.0,
+              1406.0
+            ],
+            [
+              66.0,
+              1406.0
+            ]
+          ],
+          "text": "VISIT WWW.MCDFEEDBACK.COM.MY",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              238.0,
+              1408.0
+            ],
+            [
+              279.0,
+              1408.0
+            ],
+            [
+              279.0,
+              1439.0
+            ],
+            [
+              238.0,
+              1439.0
+            ]
+          ],
+          "text": "OR",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              66.0,
+              1443.0
+            ],
+            [
+              465.0,
+              1443.0
+            ],
+            [
+              465.0,
+              1478.0
+            ],
+            [
+              66.0,
+              1478.0
+            ]
+          ],
+          "text": "DOWNLOAD MY MCD FEEDBACK FROM",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              116.0,
+              1476.0
+            ],
+            [
+              416.0,
+              1476.0
+            ],
+            [
+              416.0,
+              1511.0
+            ],
+            [
+              116.0,
+              1511.0
+            ]
+          ],
+          "text": "GOOGLE PLAY/APP STORE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              93.0,
+              1541.0
+            ],
+            [
+              422.0,
+              1541.0
+            ],
+            [
+              422.0,
+              1578.0
+            ],
+            [
+              93.0,
+              1578.0
+            ]
+          ],
+          "text": "TO SHARE YOUR EXPERIENCE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              27.0,
+              1600.0
+            ],
+            [
+              457.0,
+              1600.0
+            ],
+            [
+              457.0,
+              1637.0
+            ],
+            [
+              27.0,
+              1637.0
+            ]
+          ],
+          "text": "THANK YOU AND PLEASE COME AGAIN.",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              19.0,
+              1644.0
+            ],
+            [
+              532.0,
+              1644.0
+            ],
+            [
+              532.0,
+              1677.0
+            ],
+            [
+              19.0,
+              1677.0
+            ]
+          ],
+          "text": "CUSTOMER SERVICE HOTLINE : 03-2726-5600",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "img_name": "X51005230621.jpg",
+      "annotations": [
+        {
+          "polygon": [
+            [
+              166.0,
+              329.0
+            ],
+            [
+              409.0,
+              329.0
+            ],
+            [
+              409.0,
+              355.0
+            ],
+            [
+              166.0,
+              355.0
+            ]
+          ],
+          "text": "SIN LIANHAP SDN BHD",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              179.0,
+              358.0
+            ],
+            [
+              333.0,
+              358.0
+            ],
+            [
+              333.0,
+              382.0
+            ],
+            [
+              179.0,
+              382.0
+            ]
+          ],
+          "text": " JALAN",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              170.0,
+              404.0
+            ],
+            [
+              410.0,
+              404.0
+            ],
+            [
+              410.0,
+              426.0
+            ],
+            [
+              170.0,
+              426.0
+            ]
+          ],
+          "text": "SIN LIANHAP SDN BHD",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              181.0,
+              431.0
+            ],
+            [
+              396.0,
+              431.0
+            ],
+            [
+              396.0,
+              455.0
+            ],
+            [
+              181.0,
+              455.0
+            ]
+          ],
+          "text": "",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              140.0,
+              463.0
+            ],
+            [
+              442.0,
+              463.0
+            ],
+            [
+              442.0,
+              485.0
+            ],
+            [
+              140.0,
+              485.0
+            ]
+          ],
+          "text": " ULU YAM LAMA",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              140.0,
+              493.0
+            ],
+            [
+              437.0,
+              493.0
+            ],
+            [
+              437.0,
+              515.0
+            ],
+            [
+              140.0,
+              515.0
+            ]
+          ],
+          "text": " SELANGOR.",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              42.0,
+              525.0
+            ],
+            [
+              497.0,
+              525.0
+            ],
+            [
+              497.0,
+              545.0
+            ],
+            [
+              42.0,
+              545.0
+            ]
+          ],
+          "text": "TEL:03-60752222(HUNTING LINE) FAX: 03-60752572",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              128.0,
+              556.0
+            ],
+            [
+              448.0,
+              556.0
+            ],
+            [
+              448.0,
+              582.0
+            ],
+            [
+              128.0,
+              582.0
+            ]
+          ],
+          "text": "(COMPANY REG NO: 284922-D)",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              146.0,
+              589.0
+            ],
+            [
+              437.0,
+              589.0
+            ],
+            [
+              437.0,
+              617.0
+            ],
+            [
+              146.0,
+              617.0
+            ]
+          ],
+          "text": "(GST REG NO: 001610833920)",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              210.0,
+              641.0
+            ],
+            [
+              348.0,
+              641.0
+            ],
+            [
+              348.0,
+              661.0
+            ],
+            [
+              210.0,
+              661.0
+            ]
+          ],
+          "text": "TAX INVOICE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              44.0,
+              706.0
+            ],
+            [
+              234.0,
+              706.0
+            ],
+            [
+              234.0,
+              727.0
+            ],
+            [
+              44.0,
+              727.0
+            ]
+          ],
+          "text": "CASH CUSTOMER",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              41.0,
+              748.0
+            ],
+            [
+              164.0,
+              748.0
+            ],
+            [
+              164.0,
+              771.0
+            ],
+            [
+              41.0,
+              771.0
+            ]
+          ],
+          "text": "INVOLCE NO.:",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              213.0,
+              746.0
+            ],
+            [
+              329.0,
+              746.0
+            ],
+            [
+              329.0,
+              769.0
+            ],
+            [
+              213.0,
+              769.0
+            ]
+          ],
+          "text": ":H0003939",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              44.0,
+              778.0
+            ],
+            [
+              106.0,
+              778.0
+            ],
+            [
+              106.0,
+              801.0
+            ],
+            [
+              44.0,
+              801.0
+            ]
+          ],
+          "text": "DATE:",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              215.0,
+              780.0
+            ],
+            [
+              339.0,
+              780.0
+            ],
+            [
+              339.0,
+              801.0
+            ],
+            [
+              215.0,
+              801.0
+            ]
+          ],
+          "text": ":05/02/2018",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              41.0,
+              810.0
+            ],
+            [
+              148.0,
+              810.0
+            ],
+            [
+              148.0,
+              833.0
+            ],
+            [
+              41.0,
+              833.0
+            ]
+          ],
+          "text": "CASHIER#:",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              211.0,
+              812.0
+            ],
+            [
+              223.0,
+              812.0
+            ],
+            [
+              223.0,
+              834.0
+            ],
+            [
+              211.0,
+              834.0
+            ]
+          ],
+          "text": ":",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              297.0,
+              859.0
+            ],
+            [
+              334.0,
+              859.0
+            ],
+            [
+              334.0,
+              880.0
+            ],
+            [
+              297.0,
+              880.0
+            ]
+          ],
+          "text": "RM",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              436.0,
+              858.0
+            ],
+            [
+              495.0,
+              858.0
+            ],
+            [
+              495.0,
+              881.0
+            ],
+            [
+              436.0,
+              881.0
+            ]
+          ],
+          "text": "CODE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              42.0,
+              896.0
+            ],
+            [
+              241.0,
+              896.0
+            ],
+            [
+              241.0,
+              920.0
+            ],
+            [
+              42.0,
+              920.0
+            ]
+          ],
+          "text": "PPD 4MM DENLIME",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              287.0,
+              933.0
+            ],
+            [
+              342.0,
+              933.0
+            ],
+            [
+              342.0,
+              956.0
+            ],
+            [
+              287.0,
+              956.0
+            ]
+          ],
+          "text": "1.887",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              475.0,
+              935.0
+            ],
+            [
+              507.0,
+              935.0
+            ],
+            [
+              507.0,
+              956.0
+            ],
+            [
+              475.0,
+              956.0
+            ]
+          ],
+          "text": "SR",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              56.0,
+              967.0
+            ],
+            [
+              147.0,
+              967.0
+            ],
+            [
+              147.0,
+              989.0
+            ],
+            [
+              56.0,
+              989.0
+            ]
+          ],
+          "text": "1.000PC",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              459.0,
+              968.0
+            ],
+            [
+              504.0,
+              968.0
+            ],
+            [
+              504.0,
+              989.0
+            ],
+            [
+              459.0,
+              989.0
+            ]
+          ],
+          "text": "2.00",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              46.0,
+              1012.0
+            ],
+            [
+              206.0,
+              1012.0
+            ],
+            [
+              206.0,
+              1035.0
+            ],
+            [
+              46.0,
+              1035.0
+            ]
+          ],
+          "text": "6023# GARDEN",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              283.0,
+              1050.0
+            ],
+            [
+              338.0,
+              1050.0
+            ],
+            [
+              338.0,
+              1072.0
+            ],
+            [
+              283.0,
+              1072.0
+            ]
+          ],
+          "text": "5.000",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              470.0,
+              1050.0
+            ],
+            [
+              505.0,
+              1050.0
+            ],
+            [
+              505.0,
+              1072.0
+            ],
+            [
+              470.0,
+              1072.0
+            ]
+          ],
+          "text": "SR",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              58.0,
+              1083.0
+            ],
+            [
+              148.0,
+              1083.0
+            ],
+            [
+              148.0,
+              1106.0
+            ],
+            [
+              58.0,
+              1106.0
+            ]
+          ],
+          "text": "1.000 PC",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              461.0,
+              1084.0
+            ],
+            [
+              507.0,
+              1084.0
+            ],
+            [
+              507.0,
+              1107.0
+            ],
+            [
+              461.0,
+              1107.0
+            ]
+          ],
+          "text": "5.30",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              227.0,
+              1140.0
+            ],
+            [
+              321.0,
+              1140.0
+            ],
+            [
+              321.0,
+              1161.0
+            ],
+            [
+              227.0,
+              1161.0
+            ]
+          ],
+          "text": "SUBTOTAL :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              460.0,
+              1140.0
+            ],
+            [
+              504.0,
+              1140.0
+            ],
+            [
+              504.0,
+              1163.0
+            ],
+            [
+              460.0,
+              1163.0
+            ]
+          ],
+          "text": "7.30",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              58.0,
+              1184.0
+            ],
+            [
+              326.0,
+              1184.0
+            ],
+            [
+              326.0,
+              1214.0
+            ],
+            [
+              58.0,
+              1214.0
+            ]
+          ],
+          "text": "TOTAL SALES EXCLUDING GST :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              462.0,
+              1187.0
+            ],
+            [
+              509.0,
+              1187.0
+            ],
+            [
+              509.0,
+              1208.0
+            ],
+            [
+              462.0,
+              1208.0
+            ]
+          ],
+          "text": "6.69",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              46.0,
+              1217.0
+            ],
+            [
+              324.0,
+              1217.0
+            ],
+            [
+              324.0,
+              1241.0
+            ],
+            [
+              46.0,
+              1241.0
+            ]
+          ],
+          "text": "TOTAL SALES INCLUSLVE OF GST:",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              466.0,
+              1220.0
+            ],
+            [
+              510.0,
+              1220.0
+            ],
+            [
+              510.0,
+              1241.0
+            ],
+            [
+              466.0,
+              1241.0
+            ]
+          ],
+          "text": "7.30",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              110.0,
+              1251.0
+            ],
+            [
+              318.0,
+              1251.0
+            ],
+            [
+              318.0,
+              1279.0
+            ],
+            [
+              110.0,
+              1279.0
+            ]
+          ],
+          "text": "ROUNDING ADJUSTMENT :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              462.0,
+              1254.0
+            ],
+            [
+              508.0,
+              1254.0
+            ],
+            [
+              508.0,
+              1274.0
+            ],
+            [
+              462.0,
+              1274.0
+            ]
+          ],
+          "text": "0.00",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              213.0,
+              1306.0
+            ],
+            [
+              312.0,
+              1306.0
+            ],
+            [
+              312.0,
+              1334.0
+            ],
+            [
+              213.0,
+              1334.0
+            ]
+          ],
+          "text": "PAYMENT :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              461.0,
+              1307.0
+            ],
+            [
+              508.0,
+              1307.0
+            ],
+            [
+              508.0,
+              1330.0
+            ],
+            [
+              461.0,
+              1330.0
+            ]
+          ],
+          "text": "7.30",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              191.0,
+              1342.0
+            ],
+            [
+              325.0,
+              1342.0
+            ],
+            [
+              325.0,
+              1370.0
+            ],
+            [
+              191.0,
+              1370.0
+            ]
+          ],
+          "text": "CHANGE DUE :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              465.0,
+              1344.0
+            ],
+            [
+              510.0,
+              1344.0
+            ],
+            [
+              510.0,
+              1367.0
+            ],
+            [
+              465.0,
+              1367.0
+            ]
+          ],
+          "text": "0.00",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              45.0,
+              1409.0
+            ],
+            [
+              182.0,
+              1409.0
+            ],
+            [
+              182.0,
+              1441.0
+            ],
+            [
+              45.0,
+              1441.0
+            ]
+          ],
+          "text": "TOTAL ITEM(S) :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              42.0,
+              1459.0
+            ],
+            [
+              188.0,
+              1459.0
+            ],
+            [
+              188.0,
+              1488.0
+            ],
+            [
+              42.0,
+              1488.0
+            ]
+          ],
+          "text": "GST SUMMARY",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              42.0,
+              1493.0
+            ],
+            [
+              76.0,
+              1493.0
+            ],
+            [
+              76.0,
+              1516.0
+            ],
+            [
+              42.0,
+              1516.0
+            ]
+          ],
+          "text": "SR",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              275.0,
+              1466.0
+            ],
+            [
+              355.0,
+              1466.0
+            ],
+            [
+              355.0,
+              1486.0
+            ],
+            [
+              275.0,
+              1486.0
+            ]
+          ],
+          "text": "AMONUT",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              322.0,
+              1496.0
+            ],
+            [
+              367.0,
+              1496.0
+            ],
+            [
+              367.0,
+              1518.0
+            ],
+            [
+              322.0,
+              1518.0
+            ]
+          ],
+          "text": "6.89",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              462.0,
+              1463.0
+            ],
+            [
+              500.0,
+              1463.0
+            ],
+            [
+              500.0,
+              1485.0
+            ],
+            [
+              462.0,
+              1485.0
+            ]
+          ],
+          "text": "TAX",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              466.0,
+              1497.0
+            ],
+            [
+              509.0,
+              1497.0
+            ],
+            [
+              509.0,
+              1520.0
+            ],
+            [
+              466.0,
+              1520.0
+            ]
+          ],
+          "text": "0.41",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              169.0,
+              1633.0
+            ],
+            [
+              358.0,
+              1633.0
+            ],
+            [
+              358.0,
+              1665.0
+            ],
+            [
+              169.0,
+              1665.0
+            ]
+          ],
+          "text": "THANK YOU",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              102.0,
+              1666.0
+            ],
+            [
+              444.0,
+              1666.0
+            ],
+            [
+              444.0,
+              1699.0
+            ],
+            [
+              102.0,
+              1699.0
+            ]
+          ],
+          "text": "PLEASE COME AGAIN",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              175.0,
+              971.0
+            ],
+            [
+              190.0,
+              971.0
+            ],
+            [
+              190.0,
+              989.0
+            ],
+            [
+              175.0,
+              989.0
+            ]
+          ],
+          "text": "X",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              178.0,
+              1087.0
+            ],
+            [
+              193.0,
+              1087.0
+            ],
+            [
+              193.0,
+              1106.0
+            ],
+            [
+              178.0,
+              1106.0
+            ]
+          ],
+          "text": "X",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              228.0,
+              1413.0
+            ],
+            [
+              245.0,
+              1413.0
+            ],
+            [
+              245.0,
+              1434.0
+            ],
+            [
+              228.0,
+              1434.0
+            ]
+          ],
+          "text": "2",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              101.0,
+              1494.0
+            ],
+            [
+              144.0,
+              1494.0
+            ],
+            [
+              144.0,
+              1523.0
+            ],
+            [
+              101.0,
+              1523.0
+            ]
+          ],
+          "text": "@6",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "img_name": "X51005230648.jpg",
+      "annotations": [
+        {
+          "polygon": [
+            [
+              155.0,
+              127.0
+            ],
+            [
+              551.0,
+              127.0
+            ],
+            [
+              551.0,
+              149.0
+            ],
+            [
+              155.0,
+              149.0
+            ]
+          ],
+          "text": "CROSS CHANNEL NETWORK SDN. BHD.",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              197.0,
+              153.0
+            ],
+            [
+              507.0,
+              153.0
+            ],
+            [
+              507.0,
+              179.0
+            ],
+            [
+              197.0,
+              179.0
+            ]
+          ],
+          "text": "",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              197.0,
+              178.0
+            ],
+            [
+              511.0,
+              178.0
+            ],
+            [
+              511.0,
+              203.0
+            ],
+            [
+              197.0,
+              203.0
+            ]
+          ],
+          "text": "",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              183.0,
+              204.0
+            ],
+            [
+              520.0,
+              204.0
+            ],
+            [
+              520.0,
+              230.0
+            ],
+            [
+              183.0,
+              230.0
+            ]
+          ],
+          "text": " SELANGOR.",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              143.0,
+              231.0
+            ],
+            [
+              339.0,
+              231.0
+            ],
+            [
+              339.0,
+              255.0
+            ],
+            [
+              143.0,
+              255.0
+            ]
+          ],
+          "text": "TEL : 03-6057 9688",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              362.0,
+              231.0
+            ],
+            [
+              562.0,
+              231.0
+            ],
+            [
+              562.0,
+              255.0
+            ],
+            [
+              362.0,
+              255.0
+            ]
+          ],
+          "text": "FAX : 03-6057 9678",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              236.0,
+              258.0
+            ],
+            [
+              454.0,
+              258.0
+            ],
+            [
+              454.0,
+              279.0
+            ],
+            [
+              236.0,
+              279.0
+            ]
+          ],
+          "text": "GST ID : 001151500288",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              269.0,
+              282.0
+            ],
+            [
+              417.0,
+              282.0
+            ],
+            [
+              417.0,
+              308.0
+            ],
+            [
+              269.0,
+              308.0
+            ]
+          ],
+          "text": "TAX INVOLCE",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              431.0,
+              303.0
+            ],
+            [
+              590.0,
+              303.0
+            ],
+            [
+              590.0,
+              323.0
+            ],
+            [
+              431.0,
+              323.0
+            ]
+          ],
+          "text": "NO.:BTG-052332",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              446.0,
+              329.0
+            ],
+            [
+              488.0,
+              329.0
+            ],
+            [
+              488.0,
+              356.0
+            ],
+            [
+              446.0,
+              356.0
+            ]
+          ],
+          "text": "QTY",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              511.0,
+              328.0
+            ],
+            [
+              549.0,
+              328.0
+            ],
+            [
+              549.0,
+              351.0
+            ],
+            [
+              511.0,
+              351.0
+            ]
+          ],
+          "text": "RM",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              552.0,
+              329.0
+            ],
+            [
+              595.0,
+              329.0
+            ],
+            [
+              595.0,
+              351.0
+            ],
+            [
+              552.0,
+              351.0
+            ]
+          ],
+          "text": "TAX",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              89.0,
+              356.0
+            ],
+            [
+              423.0,
+              356.0
+            ],
+            [
+              423.0,
+              380.0
+            ],
+            [
+              89.0,
+              380.0
+            ]
+          ],
+          "text": "SCHNEIDER E15R 13A SWITCH",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              460.0,
+              356.0
+            ],
+            [
+              475.0,
+              356.0
+            ],
+            [
+              475.0,
+              380.0
+            ],
+            [
+              460.0,
+              380.0
+            ]
+          ],
+          "text": "1",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              87.0,
+              383.0
+            ],
+            [
+              381.0,
+              383.0
+            ],
+            [
+              381.0,
+              408.0
+            ],
+            [
+              87.0,
+              408.0
+            ]
+          ],
+          "text": "SOCKET OUTLET @ 6.0000",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              132.0,
+              417.0
+            ],
+            [
+              409.0,
+              417.0
+            ],
+            [
+              409.0,
+              443.0
+            ],
+            [
+              132.0,
+              443.0
+            ]
+          ],
+          "text": "TOTAL AMT INCL. GST @ 6% :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              181.0,
+              440.0
+            ],
+            [
+              408.0,
+              440.0
+            ],
+            [
+              408.0,
+              465.0
+            ],
+            [
+              181.0,
+              465.0
+            ]
+          ],
+          "text": "ROUNDING ADJUSTMENT :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              213.0,
+              464.0
+            ],
+            [
+              409.0,
+              464.0
+            ],
+            [
+              409.0,
+              489.0
+            ],
+            [
+              213.0,
+              489.0
+            ]
+          ],
+          "text": "TOTAL AMT PAYABLE :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              266.0,
+              484.0
+            ],
+            [
+              408.0,
+              484.0
+            ],
+            [
+              408.0,
+              505.0
+            ],
+            [
+              266.0,
+              505.0
+            ]
+          ],
+          "text": "PAID AMOUNT :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              317.0,
+              504.0
+            ],
+            [
+              411.0,
+              504.0
+            ],
+            [
+              411.0,
+              529.0
+            ],
+            [
+              317.0,
+              529.0
+            ]
+          ],
+          "text": "CHANGE :",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              226.0,
+              524.0
+            ],
+            [
+              412.0,
+              524.0
+            ],
+            [
+              412.0,
+              548.0
+            ],
+            [
+              226.0,
+              548.0
+            ]
+          ],
+          "text": "TOTAL QTY TENDER:",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              443.0,
+              419.0
+            ],
+            [
+              491.0,
+              419.0
+            ],
+            [
+              491.0,
+              441.0
+            ],
+            [
+              443.0,
+              441.0
+            ]
+          ],
+          "text": "6.36",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              437.0,
+              443.0
+            ],
+            [
+              488.0,
+              443.0
+            ],
+            [
+              488.0,
+              463.0
+            ],
+            [
+              437.0,
+              463.0
+            ]
+          ],
+          "text": "-0.01",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              443.0,
+              464.0
+            ],
+            [
+              491.0,
+              464.0
+            ],
+            [
+              491.0,
+              486.0
+            ],
+            [
+              443.0,
+              486.0
+            ]
+          ],
+          "text": "6.35",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              434.0,
+              486.0
+            ],
+            [
+              490.0,
+              486.0
+            ],
+            [
+              490.0,
+              506.0
+            ],
+            [
+              434.0,
+              506.0
+            ]
+          ],
+          "text": "10.00",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              445.0,
+              506.0
+            ],
+            [
+              492.0,
+              506.0
+            ],
+            [
+              492.0,
+              525.0
+            ],
+            [
+              445.0,
+              525.0
+            ]
+          ],
+          "text": "3.65",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              445.0,
+              526.0
+            ],
+            [
+              489.0,
+              526.0
+            ],
+            [
+              489.0,
+              546.0
+            ],
+            [
+              445.0,
+              546.0
+            ]
+          ],
+          "text": "1.00",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              140.0,
+              554.0
+            ],
+            [
+              284.0,
+              554.0
+            ],
+            [
+              284.0,
+              582.0
+            ],
+            [
+              140.0,
+              582.0
+            ]
+          ],
+          "text": "GST SUMMARY",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              348.0,
+              555.0
+            ],
+            [
+              428.0,
+              555.0
+            ],
+            [
+              428.0,
+              579.0
+            ],
+            [
+              348.0,
+              579.0
+            ]
+          ],
+          "text": "AMOUNT",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              529.0,
+              552.0
+            ],
+            [
+              571.0,
+              552.0
+            ],
+            [
+              571.0,
+              576.0
+            ],
+            [
+              529.0,
+              576.0
+            ]
+          ],
+          "text": "TAX",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              376.0,
+              582.0
+            ],
+            [
+              427.0,
+              582.0
+            ],
+            [
+              427.0,
+              607.0
+            ],
+            [
+              376.0,
+              607.0
+            ]
+          ],
+          "text": "(RM)",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              518.0,
+              578.0
+            ],
+            [
+              569.0,
+              578.0
+            ],
+            [
+              569.0,
+              603.0
+            ],
+            [
+              518.0,
+              603.0
+            ]
+          ],
+          "text": "(RM)",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              139.0,
+              612.0
+            ],
+            [
+              218.0,
+              612.0
+            ],
+            [
+              218.0,
+              636.0
+            ],
+            [
+              139.0,
+              636.0
+            ]
+          ],
+          "text": "SR @ A",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              381.0,
+              612.0
+            ],
+            [
+              428.0,
+              612.0
+            ],
+            [
+              428.0,
+              634.0
+            ],
+            [
+              381.0,
+              634.0
+            ]
+          ],
+          "text": "6.00",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              523.0,
+              611.0
+            ],
+            [
+              571.0,
+              611.0
+            ],
+            [
+              571.0,
+              634.0
+            ],
+            [
+              523.0,
+              634.0
+            ]
+          ],
+          "text": "0.36",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              138.0,
+              643.0
+            ],
+            [
+              193.0,
+              643.0
+            ],
+            [
+              193.0,
+              666.0
+            ],
+            [
+              138.0,
+              666.0
+            ]
+          ],
+          "text": "TOTAL",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              380.0,
+              643.0
+            ],
+            [
+              426.0,
+              643.0
+            ],
+            [
+              426.0,
+              665.0
+            ],
+            [
+              380.0,
+              665.0
+            ]
+          ],
+          "text": "6.00",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              523.0,
+              644.0
+            ],
+            [
+              570.0,
+              644.0
+            ],
+            [
+              570.0,
+              665.0
+            ],
+            [
+              523.0,
+              665.0
+            ]
+          ],
+          "text": "0.36",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              320.0,
+              675.0
+            ],
+            [
+              459.0,
+              675.0
+            ],
+            [
+              459.0,
+              698.0
+            ],
+            [
+              320.0,
+              698.0
+            ]
+          ],
+          "text": "THANK YOU",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              129.0,
+              698.0
+            ],
+            [
+              603.0,
+              698.0
+            ],
+            [
+              603.0,
+              724.0
+            ],
+            [
+              129.0,
+              724.0
+            ]
+          ],
+          "text": "GOODS SOLD ARE NOT REFUNDABLE NOR EXCHANGEBLE.",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              199.0,
+              725.0
+            ],
+            [
+              534.0,
+              725.0
+            ],
+            [
+              534.0,
+              752.0
+            ],
+            [
+              199.0,
+              752.0
+            ]
+          ],
+          "text": " PLEASE E-MAIL US:",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              253.0,
+              752.0
+            ],
+            [
+              479.0,
+              752.0
+            ],
+            [
+              479.0,
+              778.0
+            ],
+            [
+              253.0,
+              778.0
+            ]
+          ],
+          "text": "GOWA9688@GMAIL.COM",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              245.0,
+              777.0
+            ],
+            [
+              487.0,
+              777.0
+            ],
+            [
+              487.0,
+              803.0
+            ],
+            [
+              245.0,
+              803.0
+            ]
+          ],
+          "text": "29/01/2018 4:40:40 PM",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              504.0,
+              357.0
+            ],
+            [
+              552.0,
+              357.0
+            ],
+            [
+              552.0,
+              379.0
+            ],
+            [
+              504.0,
+              379.0
+            ]
+          ],
+          "text": "6.36",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        },
+        {
+          "polygon": [
+            [
+              561.0,
+              359.0
+            ],
+            [
+              589.0,
+              359.0
+            ],
+            [
+              589.0,
+              378.0
+            ],
+            [
+              561.0,
+              378.0
+            ]
+          ],
+          "text": "SR",
+          "illegibility": false,
+          "language": "Latin",
+          "chars": [
+            {
+              "polygon": [],
+              "char": "",
+              "illegibility": false,
+              "language": "Latin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
