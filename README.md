@@ -31,15 +31,13 @@ python train.py
 ## Demo
 #### input
 ![input_01](datasets/test/input/01.png)
-![input_02](datasets/test/input/02.png)
+![input_02](datasets/test/input/02.jpg)
 ![input_03](datasets/test/input/03.jpeg)
 ![input_04](datasets/test/input/04.jpg)
-![input_05](datasets/test/input/05.jpg)
 
 #### output
 ![output_01](datasets/test/output/01.png)
-![output_02](datasets/test/output/02.png)
+![output_02](datasets/test/output/02.jpg)
 ![output_03](datasets/test/output/03.jpeg)
 ![output_04](datasets/test/output/04.jpg)
-![output_05](datasets/test/output/05.jpg)
 
