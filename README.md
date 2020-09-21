@@ -9,7 +9,7 @@ This is a tensorflow2.x implementation of "[Real-time Scene Text Detection with 
 
 
 ## Models
-Download Trained models [Baidu Drive](https://pan.baidu.com/s/1FD0I6lPI1OT_FzYRG2pzrw) (download code: 53t9), [Google Drive](https://drive.google.com/file/d/1bQP8iLWkJ_6Nd-TeHINrD03_8djDl0qE/view?usp=sharing).
+Download Trained models [Baidu Drive](https://pan.baidu.com/s/1FmrK3f_bzwMc93qZ464cPg) (download code: kva3), [Google Drive](https://drive.google.com/file/d/1e0K1AAYECL_-ZpbVqFa65msBZoDhP0sl/view?usp=sharing).
 
 
 ## Datasets
